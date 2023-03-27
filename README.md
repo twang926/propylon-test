@@ -43,6 +43,11 @@ This project has the basic structure to run. First of all, you need install the 
 npm install
 ```
 
+There is one integration test included
+```
+npm run test App.test
+```
+
 Now, we are able to run the backend. To do it, run the command below in a new terminal:
 
 ```
